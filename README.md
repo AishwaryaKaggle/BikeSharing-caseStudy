@@ -1,35 +1,29 @@
 # BikeSharing-caseStudy
 Upgrad ML Linear Regression Case Study
 
-
-# Lending Club Case Study
-> Aim to build to a model which can efficiently analyse the factors inflicting and increasing the demand for bikes.
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 
 ## General Information
--Case study on   Bike Sharing which deals with Linear Regression
--This study tries to build a model which predicts the bike demand.
--Final Variables list consists of 7 features out of which yr,tmp,mnth_9 are most important features.
-=With R2 of 0.82 and adjusted R2 with 0.79 efficiency
+- Case study on   Bike Sharing which deals with Linear Regression
+- This study tries to build a model which predicts the bike demand.
+- Final Variables list consists of 7 features out of which yr,tmp,mnth_9 are most important features.
+- With R2 of 0.82 and adjusted R2 with 0.79 efficiency
 
 ## Technologies Used
--Python v3.7.2
--Numpy v1.20.1
--Pandas v1.2.4
--Seaborn v0.11.1
--Matplotlib v3.3.4
--statsModel library for doing statistical analysis
--sklearn library for doing statistical analysis
+- Python v3.7.2
+- Numpy v1.20.1
+- Pandas v1.2.4
+- Seaborn v0.11.1
+- Matplotlib v3.3.4
+- statsModel library for doing statistical analysis
+- sklearn library for doing statistical analysis
 
 ## Conclusions
-- People with higher income are likely to get higher interest rates on loans.
-- Higher interest rates on loan will lead to the loan not paid on due dates and possibly defaulters
-- Most loans which were charged off were taken to pay debts
-- Higher amount of loans were verified more than less amount, thus loans with lesser amount are more liekely to be charged off.
+- Final R2 is 0.80 and adjusted R2 is 0.79
+- Final 3 Important features are yr,tmp,mnth_9
 
 ## Contact
 Created by P.S.V.S.Aishwarya - feel free to contact me!
