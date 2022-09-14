@@ -32,5 +32,5 @@ Upgrad ML Linear Regression Case Study
 - Higher amount of loans were verified more than less amount, thus loans with lesser amount are more liekely to be charged off.
 
 ## Contact
-Created by P.S.V.S.Aishwarya and Jai Sirohi - feel free to contact me!
+Created by P.S.V.S.Aishwarya - feel free to contact me!
 
