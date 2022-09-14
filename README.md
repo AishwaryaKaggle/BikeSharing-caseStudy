@@ -1,9 +1,9 @@
 # BikeSharing-caseStudy
 Upgrad ML Linear Regression Case Study
 Table of Contents
-#General Info
-#Technologies Used
-#Conclusions
+# General Info
+# Technologies Used
+# Conclusions
 General Information
 Case study on   Bike Sharing which deals with Linear Regression
 This study tries to build a model which predicts the bike demand.
